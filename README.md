@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Sports management portal**
 
-- 🌱 I’m currently learning **Firebase**
+- 🌱 I’m currently learning **Data Structures and Algorithm **
 
 - 👯 I’m looking to collaborate on **learning new animations**
 
