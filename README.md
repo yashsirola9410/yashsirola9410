@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yash Sirola</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on **Sports management portal**
+- 🔭 I’m currently working on **React**
 
 - 🌱 I’m currently learning **Data Structures and Algorithm **
 
